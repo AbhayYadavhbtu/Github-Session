@@ -2,5 +2,8 @@ Hi i am abhay
 Hi i am working on ab.txt
 hii this is updated priya code
 Hii i am done working on ab.txt
-Fixes bugs
-Added abhay branch
+Hii i am learning git stash 
+Hii learning git pop command
+Feature 1
+Feature 2
+Feature 3
